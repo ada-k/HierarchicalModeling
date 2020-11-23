@@ -1,0 +1,17 @@
+## loading dataset
+
+## display cluster variation
+
+
+## unpooled modeling (on entire dataset.)
+
+## pooled modeling (linear regression - cluster based) ~ kinda like parameter estimation
+
+
+## hierarchical modeling
+
+# definition of fixed effect(individual level) and random effects parameters(cluster-level)
+# MCMC sampling (nuts, draws, tunes and stuff)
+# posterior distributions
+# regression lines
+ 
